@@ -1,0 +1,35 @@
+\doxysection{Circular\+Queues.\+cpp File Reference}
+\label{_circular_queues_8cpp}\index{CircularQueues.cpp@{CircularQueues.cpp}}
+{\ttfamily \#include $<$iostream$>$}\newline
+Include dependency graph for Circular\+Queues.\+cpp\+:
+% FIG 0
+\doxysubsubsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+class \textbf{ Queues}
+\begin{DoxyCompactList}\small\item\em class ini untuk operasi lengkap queus \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+int \textbf{ main} ()
+\begin{DoxyCompactList}\small\item\em method utama untuk menjalankan program \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Function Documentation}
+\label{_circular_queues_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4} 
+\index{CircularQueues.cpp@{CircularQueues.cpp}!main@{main}}
+\index{main@{main}!CircularQueues.cpp@{CircularQueues.cpp}}
+\doxysubsubsection{main()}
+{\footnotesize\ttfamily int main (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+method utama untuk menjalankan program 
+
+\begin{DoxyReturn}{Returns}
+int 
+\end{DoxyReturn}
+$<$ objek untuk menggunakan member yang ada pada class queues
+
+$<$ variable ch untuk menyimpan pilihan pada menu yang diberikanHere is the call graph for this function\+:
+% FIG 1
